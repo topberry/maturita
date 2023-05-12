@@ -1,0 +1,21 @@
+6. Otázka - Lineární, kvadratická, lineární lomená a mocniná funkce
+ - lineární: y = ax + b či kx + q
+	- a < 0: klesající
+	- a = 0: konstatní
+	- 0 < a: rostoucí
+	- a se nazývá směrnice přímky
+	- b = 0 přímá úměrnost = lichá fce
+
+ - kvadratická: y = ax^2 + bx + c
+ 	- vrchol viz tabulky
+	- na tvar (x - m)(x - n) = y  (m, n) jsou kořeny
+	- na čtverec (x - m)^2 + n = y  [m, n] jsou sou5adnice vrcholu
+	- vrchol lze najít i pomocí první derivace - je nula ve vrcholu
+
+ - lineární lomená: viz papír
+ - mocniná funkce: y = x^n 
+ 	- vždy porchází bodem [1, 1]
+	- pokud je n sudé tak je fukce fce sudá, jinak je lichá
+	- pokud je n < 0 poté má tvar hyperboly a podle sudosti n je buď v kvadrantech 1. a 3. nebo 1. a 2.
+	- n = 0 není mocniná ale je to konstatní funkce
+	- inverzní funkce je n-tá odmocnina

@@ -1,0 +1,51 @@
+1. Otázka - Přímka a její části
+ - je daná 2 různými body anebo bodem a směrovým vektorem
+ - tvary rovnic:
+	= Obecný tvar - ax + by + c = 0   a, b, c =- R ^ (a, b) != (0, 0)
+		     	- vektor (a, b) je normálový vektor přímky
+	
+	= Směrnicový tvar přímky - y = kx + q    k, q =- R
+			- q je průnik s osou y a k je směrnice přímky => tgA kde A je orientovaný úhel
+			  který svírá přímka s kladným směrem osy x
+	
+	= Úsekový tvar - x/p + y/q = 1    p, q =- R \ {0}
+			- důkaz z pythagorovy věty
+			- p je průnik přímky s osou x
+			- q je průnik přímky s osou y
+			- přímka v tomto tvaru neprochází počátkem a je různoběžná se souřadnicovými osami
+
+	= Parametrický tvar - x = a1 + t*u1   y = a2 + t*u2
+			- [a1, a2] je bod přímky a (u1, u2) je směrnicový vektor
+			- t < 0 -> před bodem A
+			- 0 <= t <= 1 -> na úsečce AB
+			- 1 < t -> za bodem B
+	
+	= Normálový tvar - x*cos$ + y*sin$ - n = 0
+			- n je vzdálenost ppočátku od přímky
+			- odvozen z úsekového tvaru
+			- $ je úhel svírající vzdálenost počátku od přímky s osou x v kladném směru
+
+			!!! vektor AB spočítáme jako B - A !!!
+				B - A = AB -> A + AB = B
+
+ - vzdálenost bodu od přímky (viz tabulky)
+ - odchylka dvou přímek (viz tabulky)
+ - vzájemná poloha přímky a kuželosečky viz otázka 5. Kuželosečky
+ - přímku v prostoru lze vyjádřit pouze skrze parametrickou rovnici (ostatní v prostoru neexistují)
+ 	  x = a1 + t*u1
+	  y = a2 + t*u2
+	  z = a3 + t*u3
+	- [a1, a2, a3] je bod přímky
+	- (u1, u2, u3) je směrový vektor přímky
+
+ - přímka jako graf může být pouze u lineární či konstatní funkce
+ 	- je poté přímka v směrnicovém tvaru
+
+ - tečnu ke grafu lze zkonstruovat pomocí první derivace funkce: 
+ 	- f: 2x^2 + 3x - 2 = y
+	  f' =  4x + 3
+	  tečna v bodě x = 3 -> q: spočítame si y z původní rovnice x = 3
+	   		     -> k: určíme dosazením do derivace x = 3
+
+ - konstrukce buď pomocí dvou bodů anebo vektor a bod
+

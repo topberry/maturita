@@ -1,0 +1,43 @@
+3. Otázka - Mnohoúhelník a trojúhrlník
+ - n-úhelník může být konvexní či nekonvexní
+ 	- nejméně tři body
+	- žádné tři sousední body neleží na jedné přímce
+	- úsečky spojující nesousední vrcholy se nazývají úhlopříčky
+	- dělení:
+		- pravoúhelníky x nepravoúhelníky !!! může být i vnitřní úhel 270˚ !!!
+		- konvexní a nekonvexní (žádný vnitřní úhel nemá více než 180˚)
+		- pravidelné a nepravidelné (strany i vnitřní úhly shodné)
+		- jednoduché a degenerované (alespoň dvě strany se protínají)
+	- pro součet vnitřních úhlů platí: 180° * (n - 2)
+	- počet úhlopříček: 1/2n * (n - 3)
+
+ - rovnoběžník - kosodelník - čtyřúhelník, který má protilehlé 
+ - lichoběžník - konvexní čtyřúhelník jehož dvě protilehlé strany jsou rovnoběžné a zbylé dvě různoběžné
+ 	- obecný - všechny strany jsou jiné
+	- rovnoramenný
+	- pravoúhlý
+
+ - trojúhelník - tři body, tři strany
+ 	- tři body v rovině i v prostoru neležící na jedné přímce určují právě jeden trojúhelník a právě jednu
+	  rovinu
+	- dělení podle stran:
+		- obecný 
+		- rovnoramenný
+		- rovnostranný
+	- dělení podle úhlů:
+		- ostroúhlý
+		- pravoúhlý
+		- tupoúhlý
+	- Pythagorova věta
+	- Euklidova věta - v^2 = ca * cb
+	- sinova a kosinova věta
+
+ - konsturkce trojúhelníku: USU, SSS, SUS
+
+ - trigonometrie - užití goniometrických funkcí při řešení úloh o trojúhelnících
+ 	- sinova veta, kosinova veta
+
+ - shodnost: sss, sus, usu + Ssu
+ - podobnost: sss, sus, uu
+
+

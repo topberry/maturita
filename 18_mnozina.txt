@@ -1,0 +1,8 @@
+18. Otázka - Množiny
+ - určení množiny:
+ 	- výčtem všech prvků 
+	- určením CHARAKTERISTICKÉ VLASTNOSTI prvku množiny : {jakému číselnému oboru náleží; charakteristická vl}
+ - operace s množinami
+ - Vennův diagram
+ - v analytice a konstručních úlohách se používá hlavně rovnoběžka, osa úhlu, osa úsečky, kružnice
+ - viz papíry

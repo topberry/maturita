@@ -1,0 +1,18 @@
+Derivace:
+- pokud je první derivace:
+	- 0: lokální extrém -> pokud je druhá derivace:
+		- f'' > 0: lokální minimum
+		- f'' < 0: lokální maximum
+	- < 0: klesající
+	- > 0: rostoucí
+- druhá derivace:
+	- kladná = konvexní
+	- záporná = konkávní
+	- nula = inflexní bod, pokud zároveň třetí derivace v tomto bodě není 0
+
+- pravidla derivace:
+	- součet 
+	- rozdíl
+	- součin
+	- podíl
+	- složené funkce

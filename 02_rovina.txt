@@ -1,0 +1,30 @@
+2. Otázka - Rovina
+ - rovina je jednoznačně určena 3 nekolinearními body (2 vektory navzájemn lin. nezávislé)
+   -> znamená že body neleží na jedné přímce
+ - všechny body definujeme: AX = t*u + s*v kde t a s jsou pouze libovolné parametry náležící R
+ - PARAMETRICKÁ ROVNICE: 
+ 	- X = A + t*u + s*v
+
+ - OBECNÁ ROVNICE:
+ 	- ax + by + cz + d = 0
+	- kde n(a, b, c) je normálový vektor roviny
+	- n = u x v
+
+ - vektorový součin:
+ 	- viz dodatky vektory.txt
+
+ - vzdálenost je určena pomocí pythagorovy věty
+ - vzdálenost bodu od roviny viz tabulky
+	 - odchylka dvou rovin X odchylka roviny a přímky = cos$ X sin$
+
+ - řez kostky na místě nakreslit
+ - vzájemná poloha dvou rovin:
+    - rovnoběžné různé 
+    - různoběžné - průnik je přímka která se nazývá průsečnice
+    - totožné
+ - vzájemná poloha tří rovin:
+    - všechny tři rovnoběžné různé
+    - dvě rovnoběžné různé jenda protíná obě -> dvě průsečnice vzniknou
+    - všechny tři jsou různoběžné a mají průnik v jedné průsečnici = "svazek rovin"
+    - všechny tři jsou různoběžné a mají celkem tři průsečnice - všechny průsečnice jsou rovnoběžné
+    - všechny tři roviny jsou různoběžné a mají pouze jeden společný bod = "trs rovin"

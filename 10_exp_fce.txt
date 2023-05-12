@@ -1,0 +1,14 @@
+10. Otázka - Exponenciální funkce a rovnice
+ - funkce ve tvaru f(x) = a^x
+ - Df je celé R
+ - Hf je R+
+ - a se nazývá základ
+ - x se nazývá exponent
+ - grafem funkce je exponenciála
+ - derivace je ln x * a^x
+ - inverzní funkce je logaritmus o stejném základu
+ - funkce je:
+ 	- zdola omezen
+	- prostá
+	- spojitá
+  

@@ -1,0 +1,37 @@
+Otázka 5. - Kuželosečky:
+ - je rovinná křivka 
+ - vznikne průnikem roviny s rotační kuželovou plochou, přičemž nemůže rovina procházet vrcholem (trojúhelník)
+ - typy: 
+   = Kružnice:
+     - řez kolmo na osu symetrie či rovnoběžně s podstavou
+     - rovnice: (x - m)^2 + (y - n)^2 = r^2
+  
+   = Parabola
+     - řez rovnoběžně s právě jednou povrchovou přímkou pláště kužele 
+     - rovnice: (x - m)^2 = 2p(y - n)
+
+   = Elipsa 
+     - řez:
+       - úhel s rotační osou menší než 90˚ a větší než 1/2 vrcholového úhlu (důkaz ohledně 1/2 vrcholového úhlu)
+       - (x - m)^2 / a^2 + (y - n)^2 / b^2 = 1
+
+   = Hyperbola 
+     - úhel řezu s rotační osou menší než 1/2 vrcholového úhlu 
+     - rovnoběžná s právě dvěma povrchovými přímkami ???
+     - rovnice: (x - m)^2 / a^2 - (y - n)^2 / b^2 = 1
+
+ - degenerované kuželosečky:
+   - pokud prochází vrcholem kuželu -> může vzniknout něco jiného než jen rovina (bod, přímka či dvě přímky)
+
+ - přímka a kuželosečka - pokud v ani jednom bodě neprotíná, pak jde o vnější přímku
+ 			- pokud pouze v jednom bodě tak jde tečnu/
+			- pokud ve dvou bodech pak jde o sečnu 
+			_______________________________________________________
+			  Tvar     |   0 průnik    |  1 průnik   |  2 průniky  
+			- elispa   | vnější přímka |    tečna    |    sečna
+			- kružnice | vnější přímka |    tečna    |    sečna
+			- parabola | vnější přímka |tečna/rovnobě|    sečna
+				   |   	           |s osou parabo|
+			- hyperbola| vnější přímka |tečna/rovnobě|    sečna
+				   |     	   |s asymptotami|
+			=======================================================

@@ -1,0 +1,8 @@
+15. Otázka - Logaritmické funkce a rovnice
+ - logaritmus má určitý základ - přirozený logaritmus ln, dekadický o základu 10
+ - logaritmus - na kolikátou musíme umocnit základ abychom dostali x
+ - inverzní fce je exponenciální
+ - věty o logaritmech
+ - prochází bodem [1; 0]
+ - obor hodnot je R
+ - definiční obor je R+

@@ -1,0 +1,5 @@
+20. Otázka - Základy diferenciálního počtu
+ - limita - pro každé okolí na ose y kolem bodu L najdeme okolí okolo bodu a na ose x
+ - vlastní x nevlastní = reálné číslo x nekonečno
+ - definice spojitosti - okolí bodu a má i okolí hodnot na ose y
+ - derivace viz dodatky

@@ -1,0 +1,21 @@
+12. Otázka - Matematícké věty a jejich důkazy
+ - matematická věta neboli výrok - netriviální a dostatečeně obecné tvrzení
+ - věta musí být dokázána logickým postupem z definic, axiomů či už dokázaných vět
+ - může být více důkazů k jedné větě
+ - obsahuje podmínky a tvrzení
+ - lemma je jen pomocné tvrzení, dokázaná věta která funguje jen jako mezikrok pro důkaz větší věty
+ - formálně není rozdíl mezi lemmou a větou
+ - negace výroku je výrok který popírá pravdivost výroku původního
+ - obrácená věta = opačná implikace:
+ 	- pythagorova věta obrácená: pokud platí c^2 = a^2 + b^2, pak se jedná o pravoúhlý trojúhelník
+ - důkazy:
+ 	= Přímý - série logických implikacích
+		- př. 180° v trojúhelníku
+	= Nepřímy - stojí na principu: (A => B) <=> ('A => 'B)
+		- př. 2 | n => 2 | n^2
+	= Sporem - (A => B) <=> (A ^ 'B)
+		- př. sqrt(2) je iracionální
+	= Indukcí - ve dvou krocích:
+		1. dokážeme platnost výroku pro nejmenší možné n
+		2. Induční krok - předpokládáme vlastnost věty pro n-tý prvek a dokážeme platnost pro n+1-tý prvek
+		- př. buď pokrytí dlaždičkami či vzorec pro součet posloupnosti

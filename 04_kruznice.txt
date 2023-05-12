@@ -1,0 +1,10 @@
+4. Otázka - Kružnice, kruh, kulová plocha, koule
+ - většina v tabulkách
+ - obvodový úhle je 1/2 středového
+ - v konstrukčních úlohách se využíva vlasnosti kružnice, že je to množina bodů v určité vzdálenosti od bodu
+ - Thaletova kružnice - AB - kružnice střed AB, poloměr AB / 2 - vše co je na kružnici má pravý obvodový úhel
+ - Koule:
+ 	- kulová úseč x vrchlík - část koule x pouze plášť
+	- kulová výseč - kulová úseč + kužel s podstavou na úseči a vrcholem ve sředu koule
+	- kulová vrstva x kulový pás - část koule x pouze plášť
+ - mocnost bodu M ke kružnici s poloměrem r: v^2 - r^2 = |MT|^2 = |MA| * |MB| (v je vzdálenost M od S)

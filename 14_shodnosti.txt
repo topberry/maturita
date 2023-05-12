@@ -1,0 +1,9 @@
+14. Otázka - Shodnosti a podobnosti
+ - shodnost -
+ - věty o shodnosti trojúhelníku:
+ 	- sss
+	- sus
+	- usu
+	- Ssu 
+ - věty o podobnosti = shodnost ale bez Ssu
+ - shodná a podobná zobrazen:

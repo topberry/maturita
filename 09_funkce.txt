@@ -1,0 +1,21 @@
+9. Otázka - Funkce a její graf
+ - definice: 
+	Funkce je předpis pro zobrazení množiny M do množiny T
+
+ - množina ze které se zobrazuje se nazývá definiční obor a množina do nebo na kterou se zobrazuje se nazývá
+   obor hodnot
+ - vlastnosti:
+ 	- klesající x rostoucí
+	- prostá
+	- monotónost - je na určitém intervalu ryze rostoucí/klesající/nerostoucí/neklesající
+	- klesající v intervalu, rostoucí v intervalu
+	- sudá x lichá
+	- složená - pokud jako argument funkce místo čísla dosadíme jinou funkci
+		- f(g(x)), také někdy f o g -> f(|x|) a g(x^3 - 1) = f'(|x^3 - 1|)
+
+- inverzní funkce - Df' = Hf ^ Hf' = Df
+	- zrcadlově zobrazený graf podél osy y = x
+
+- limita -  
+- spojitost funkce - funkce je spojitá pokud pro libovolné E > 0 a T > 0: |x - a| < K => |f(x) - f(a)|
+	- funkce se spojitá v bodě x0 když platí: lim f(x) = f(x0)

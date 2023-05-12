@@ -1,0 +1,12 @@
+Vektory:
+ - DEFINICE (v tabulkách): je množina všech nenulových orientovaných úseček, které mají stejnou velikost a jsou
+ 			   souhlasně rovnoběžné
+
+OPERACE:
+ u(u1, u2, u3), v(v1, v2, v3)
+ 
+ - Sčítaní: u + v = (u1 + v1, u2 + v2, u3 + v3)
+ - Násobení: u * k = (k*u1, k*u2, k*u3)
+ - Skalární součin: u*v = u1 * v1 + u2 * v2 + u3 * v3
+ - Vektorový součin: 
+ 	u(u1, u2, u3) x v(v1, v2, v3) = (u2*v3 - u3v2, u3*v1 - u1*v3, u1*v2 - u2*v1)

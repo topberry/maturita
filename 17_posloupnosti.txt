@@ -1,0 +1,20 @@
+17. Otázka - Posloupnosti a řady 
+ - posloupnost - je funkce jejíž obor hodnot jsou všechna přirozená čísla
+ - lze mít i konečný zápis
+ - řada je součet posloupnosti 
+ - graf je množina izolovaných bodů
+ - má podobné vlastosti jako monotoní funkce - rostoucí, klesající, konst...
+ - určení posloupnosti:
+ 	- předpisem - an = n + 2
+	- vyjmenováním prvků
+	- graficky
+	- rekurentně - an+1 = an + 4; a1 = 2
+- příklady posloupnosti - Fibonachiho
+- konvergentní x divergentní = má limitu x nemá limitu
+- pokud jsou obě konvergentní - lim(a + b) = lim(a) + lim(b)
+- limita!!!!
+- aplikace - reprodukční číslo v COVIDu
+- aritmetická posloupnost - d = diference
+- geometrická - g = kvocient
+- je to exponenciální fce pouze s přirozenými členy
+- součet konvergentní geo. řady: s = a1 / (1 - q)

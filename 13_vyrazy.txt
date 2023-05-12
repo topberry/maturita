@@ -1,0 +1,21 @@
+13. Otázka - Výrazy
+ - definiční obor proměné - množina hodnot pro kterémá daný výraz smysl
+ - úpravy - nahradíme výraz jiným výrazem, který je se v dané množině rovná výrazu původnímu
+ 	- nový výraz má žádaný tvar a neobsahuje odmocninu ve jmenovateli
+ - zjednodušení výrazu - úprava výrazu na základní tvar (co nejméně proměných, závorek a operací)
+ - důsledková úprava - důsledek je stejný ale může přibýt jiný kořen (např. na druhou)
+ - ekvivalentní úprava - nový výraz je ekvivalentní (např. + 10)
+ - substituce - zjednodušení a upravení výrazu pro naše počítaní, musíme nakonci dosadit zpět
+ - pravidla pro operace s goniometrickými funkcemi
+ - Moirova věta o mocnění
+ - Euklidova věta o výšce 
+ - výraz může být ve tvaru:
+ 	- množinový výraz
+	- číselný výraz
+	- lomený výraz
+	- s proměnou 
+- hodí se ještě výraz v součinovém tvaru
+- číselné množiny a operace nad nimi 
+- binomická věta  - (a + b)^n 
+
+

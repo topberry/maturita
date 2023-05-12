@@ -1,0 +1,4 @@
+11. Otázka - Absolutní hodnota, velikost, vzdálenost
+ - absolutní hodnota čísla je jeho vzdálenost od 0
+ - pro reálná čísla pokud x >= 0: |x| = x, pokud x < 0: |x| = -x
+ - rovnice a nerovnice
