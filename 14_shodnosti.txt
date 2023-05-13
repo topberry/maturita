@@ -1,5 +1,16 @@
 14. Otázka - Shodnosti a podobnosti
- - shodnost -
+ - zobrazení F v rovině je předpis, který každému bodu X roviny přiřazuje právě jeden bod X
+ - X je vzor, 'X je obraz
+ - prosté zobrazení - žádné dva různé vzory se nepromítne do stejného obrazu
+ - samodružný prvek - X = 'X
+ - shodné zobrazení - |XY| = |'X'Y|
+ 	- identické
+	- posunutí / translace - 
+	- otočení / rotace
+	- středová souměrnost
+	- osová souměrnost - nepřímo shodné
+ - podobné zobrazení: |XY| = k*|'X'Y|
+ - stejnolehlost = homotetkie - H(S; k) kolikanásobně podle bodu S promítané 
  - věty o shodnosti trojúhelníku:
  	- sss
 	- sus

@@ -10,3 +10,4 @@
  - Gaussova rovina - rovina na které se zobrazují komplexní čísla - x je reálná část a y je imaginární část
  - goniometrický tvar: |z| * (cos$ + i*sin$)
  - algebraický tvar je a1 + i*a2
+	 - exponenciální tvar - |z|*e^(i*$)

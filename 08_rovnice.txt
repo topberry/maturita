@@ -1,3 +1,4 @@
 8. Otázka - Rovnice, nerovnice a jejich soustavy
  - moirova věta - mocnina komplexního čísla v goniometrickém tvaru
+ - algebraický tvar - polynom n-tého stupně a koeficienty
  - viz sešit

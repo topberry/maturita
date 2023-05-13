@@ -2,7 +2,7 @@
  - kombinace x variace - nezáleží na pořadí x záleží na pořadí
  - s opakováním x bez opakování
  - permutace - variace se stejným k jako počtem prvků
- - biomická věta - dovoluje rozdělit n-tou mocninu dvou sčítanců na n+1 sčítanců
+ - binomická věta - dovoluje rozdělit n-tou mocninu dvou sčítanců na n+1 sčítanců
  - náhodný jev může být i série výsledků nahodného pokusu
  - sčítaní prvků x násobení jevů
  - Bernoulliho schéma - n nezávislých pokusů, pouze dva možné výsledky (úspěch šance p a neúspěch šance 1 - p)
